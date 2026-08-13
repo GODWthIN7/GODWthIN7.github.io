@@ -1,0 +1,24 @@
+scss
+@import "minima";
+
+body {
+  background: #0A0A0C;
+  color: #FFFFFF;
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Sora', sans-serif;
+  color: #FFFFFF;
+}
+
+a {
+  color: #3F7FFF;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, #A03FFF, #3F7FFF, #3FFFE3, #A3FF3F);
+  margin: 2rem 0;
+}
