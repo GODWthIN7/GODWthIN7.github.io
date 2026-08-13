@@ -1,0 +1,10 @@
+title: GODWthIN7
+description: The Inner Engine of Emergent Intelligence
+theme: minima
+markdown: kramdown
+
+minima:
+  skin: dark
+
+sass:
+  style: compressed
