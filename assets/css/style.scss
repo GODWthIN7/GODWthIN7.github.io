@@ -1,24 +1,51 @@
-scss
-@import "minima";
-
+// Base layout + typography
 body {
-  background: #0A0A0C;
+  background: #0A0A0C; // deep void
   color: #FFFFFF;
   font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
 
-h1, h2, h3, h4 {
+// Headings — clean, geometric, luminous
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Sora', sans-serif;
   color: #FFFFFF;
+  margin: 0 0 1rem;
+  letter-spacing: 0.5px;
 }
 
+// Links — match the symbol’s blue‑violet highlight
 a {
   color: #3F7FFF;
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: #A03FFF; // violet accent from the gradient ring
+  }
 }
 
 hr {
   border: 0;
   height: 1px;
-  background: linear-gradient(90deg, #A03FFF, #3F7FFF, #3FFFE3, #A3FF3F);
+  background: linear-gradient(
+    90deg,
+    #A03FFF,
+    #3F7FFF,
+    #3FFFE3,
+    #A3FF3F
+  );
   margin: 2rem 0;
+}
+
+h1, h2, h3 {
+  text-shadow: 0 0 8px rgba(63, 127, 255, 0.4);
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
 }
