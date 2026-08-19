@@ -1,6 +1,7 @@
 ---
 layout: default
 title: GODWthIN7
+---
 
 # GODWthIN7  
 ### The Inner Engine of Emergent Intelligence
