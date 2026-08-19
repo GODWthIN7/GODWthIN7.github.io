@@ -40,4 +40,40 @@ h1, h2, h3 {
   padding: 2rem;
 }
 
+/* HERO BANNER */
+.hero {
+  width: 100%;
+  height: 70vh;
+  background: radial-gradient(circle at center, #0a0a0c 0%, #000000 70%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero-inner {
+  max-width: 900px;
+  width: 90%;
+}
+
+.hero-sigil {
+  width: 280px;
+  max-width: 40%;
+  margin-bottom: 1.5rem;
+}
+
+.hero-title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0;
+}
+
+.hero-subtitle {
+  font-size: 1.4rem;
+  color: #cccccc;
+  margin-top: 0.5rem;
+}
+
 /*# sourceMappingURL=style.css.map */
