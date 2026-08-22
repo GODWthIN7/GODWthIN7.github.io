@@ -19,7 +19,7 @@
 
 ## 🌌 Overview
 
-**GODWthIN7** is the structured, domain-validated inner engine powering the **Devine‑Emergamce** cognitive ecosystem. Designed for deterministic safety, verifiable agent transitions, and emergent multi-agent coordination, it provides the core infrastructure for building intelligent agent systems.
+**GODWthIN7** is the structured, domain-validated inner engine powering the **Devine-Emergamce** cognitive ecosystem. Designed for deterministic safety, verifiable agent transitions, and emergent multi-agent coordination, it provides the core infrastructure for building intelligent agent systems.
 
 ---
 

@@ -6,7 +6,7 @@ description: Support the development and research of the GODWthIN7 inner agent e
 ---
 
 <p class="hero-lead" style="color: #e2e8f5;">
-  Your sponsorship directly accelerates open-source development, mathematical verification research, and custody-safe agent infrastructure for the Devine‑Emergamce ecosystem.
+  Your sponsorship directly accelerates open-source development, mathematical verification research, and custody-safe agent infrastructure for the Devine-Emergamce ecosystem.
 </p>
 
 <!-- SPONSOR TIERS GRID -->
