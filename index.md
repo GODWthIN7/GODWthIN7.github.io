@@ -44,7 +44,7 @@ description: The Inner Engine of Emergent Intelligence — a structured, domain-
   <div class="emblem-text-wrap">
     <h3>The Seven-Pointed Sacred Geometry</h3>
     <p>The GODWthIN7 emblem reflects the sacred geometry of 7: uniting the dual trinity of logic and intuition with the singular nucleus of sovereign awareness. Its iridescent perimeter represents continuous validation across the entire spectrum of agent intelligence.</p>
-    <a href="{{ '/about' | relative_url }}" class="btn btn-secondary">Explore Sacred Geometry & Philosophy →</a>
+    <a href="{{ '/about/' | relative_url }}" class="btn btn-secondary">Explore Sacred Geometry & Philosophy →</a>
   </div>
 </div>
 
@@ -56,7 +56,7 @@ description: The Inner Engine of Emergent Intelligence — a structured, domain-
       <h3 class="card-title">About the Architecture</h3>
       <p class="card-desc">Learn about the vision, mission, and philosophical principles driving the inner engine.</p>
       <div style="margin-top: auto; padding-top: 1rem;">
-        <a href="{{ '/about' | relative_url }}">Read About GODWthIN7 →</a>
+        <a href="{{ '/about/' | relative_url }}">Read About GODWthIN7 →</a>
       </div>
     </div>
 
@@ -65,7 +65,7 @@ description: The Inner Engine of Emergent Intelligence — a structured, domain-
       <h3 class="card-title">Development Roadmap</h3>
       <p class="card-desc">Track our progress through Phase 1 Foundation, Phase 2 Expansion, and Phase 3 Emergence.</p>
       <div style="margin-top: auto; padding-top: 1rem;">
-        <a href="{{ '/roadmap' | relative_url }}">View Roadmap →</a>
+        <a href="{{ '/roadmap/' | relative_url }}">View Roadmap →</a>
       </div>
     </div>
 
@@ -74,7 +74,7 @@ description: The Inner Engine of Emergent Intelligence — a structured, domain-
       <h3 class="card-title">Sponsorship & Support</h3>
       <p class="card-desc">Support open-source research and agent safety infrastructure with custom sponsor tiers.</p>
       <div style="margin-top: auto; padding-top: 1rem;">
-        <a href="{{ '/sponsor' | relative_url }}">Become a Sponsor →</a>
+        <a href="{{ '/sponsor/' | relative_url }}">Become a Sponsor →</a>
       </div>
     </div>
   </div>

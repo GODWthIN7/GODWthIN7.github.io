@@ -2,6 +2,7 @@
 layout: default
 title: About GODWthIN7
 subtitle: The Inner Engine of Emergent Intelligence
+permalink: /about/
 description: The philosophy, architecture, and sacred geometry behind the GODWthIN7 agent engine.
 ---
 
@@ -73,7 +74,7 @@ description: The philosophy, architecture, and sacred geometry behind the GODWth
 </div>
 
 <div style="text-align: center; margin-top: 3rem;">
-  <a href="{{ '/roadmap' | relative_url }}" class="btn btn-primary">Explore the Roadmap →</a>
-  <a href="{{ '/sponsor' | relative_url }}" class="btn btn-secondary" style="margin-left: 1rem;">Support the Project →</a>
+  <a href="{{ '/roadmap/' | relative_url }}" class="btn btn-primary">Explore the Roadmap →</a>
+  <a href="{{ '/sponsor/' | relative_url }}" class="btn btn-secondary" style="margin-left: 1rem;">Support the Project →</a>
 </div>
 

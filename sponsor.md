@@ -2,6 +2,7 @@
 layout: default
 title: Sponsor GODWthIN7
 subtitle: Empower Open, Verifiable Emergent Intelligence
+permalink: /sponsor/
 description: Support the development and research of the GODWthIN7 inner agent engine.
 ---
 

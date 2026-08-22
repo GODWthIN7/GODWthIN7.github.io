@@ -50,9 +50,9 @@
 
       <nav class="nav-links" id="main-nav" aria-label="Main Navigation">
         <a href="{{ '/' | relative_url }}" class="nav-item {% if page.url == '/' %}active{% endif %}">Home</a>
-        <a href="{{ '/about' | relative_url }}" class="nav-item {% if page.url contains 'about' %}active{% endif %}">About</a>
-        <a href="{{ '/roadmap' | relative_url }}" class="nav-item {% if page.url contains 'roadmap' %}active{% endif %}">Roadmap</a>
-        <a href="{{ '/sponsor' | relative_url }}" class="nav-item nav-sponsor {% if page.url contains 'sponsor' %}active{% endif %}">
+        <a href="{{ '/about/' | relative_url }}" class="nav-item {% if page.url contains 'about' %}active{% endif %}">About</a>
+        <a href="{{ '/roadmap/' | relative_url }}" class="nav-item {% if page.url contains 'roadmap' %}active{% endif %}">Roadmap</a>
+        <a href="{{ '/sponsor/' | relative_url }}" class="nav-item nav-sponsor {% if page.url contains 'sponsor' %}active{% endif %}">
           <span class="sponsor-sparkle">✦</span> Sponsor
         </a>
         <a href="https://github.com/GODWthIN7/GODWthIN7.github.io" target="_blank" rel="noopener noreferrer" class="nav-github-btn" title="View GitHub Repository">
@@ -85,8 +85,8 @@
       </p>
       <div class="hero-actions">
         <a href="#pillars" class="btn btn-primary">Explore Pillars</a>
-        <a href="{{ '/roadmap' | relative_url }}" class="btn btn-secondary">View Roadmap</a>
-        <a href="{{ '/sponsor' | relative_url }}" class="btn btn-accent">✦ Become a Sponsor</a>
+        <a href="{{ '/roadmap/' | relative_url }}" class="btn btn-secondary">View Roadmap</a>
+        <a href="{{ '/sponsor/' | relative_url }}" class="btn btn-accent">✦ Become a Sponsor</a>
       </div>
     </div>
   </section>
@@ -128,9 +128,9 @@
         <h4 class="footer-heading">Navigation</h4>
         <ul class="footer-links">
           <li><a href="{{ '/' | relative_url }}">Home</a></li>
-          <li><a href="{{ '/about' | relative_url }}">About & Sacred Geometry</a></li>
-          <li><a href="{{ '/roadmap' | relative_url }}">Roadmap</a></li>
-          <li><a href="{{ '/sponsor' | relative_url }}">Sponsorship Tiers</a></li>
+          <li><a href="{{ '/about/' | relative_url }}">About & Sacred Geometry</a></li>
+          <li><a href="{{ '/roadmap/' | relative_url }}">Roadmap</a></li>
+          <li><a href="{{ '/sponsor/' | relative_url }}">Sponsorship Tiers</a></li>
         </ul>
       </div>
 

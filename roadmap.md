@@ -2,6 +2,7 @@
 layout: default
 title: Roadmap
 subtitle: The Path Toward Verifiable Emergence
+permalink: /roadmap/
 description: The evolutionary milestones and strategic trajectory of the GODWthIN7 ecosystem.
 ---
 
@@ -81,7 +82,7 @@ description: The evolutionary milestones and strategic trajectory of the GODWthI
   <div class="emblem-text-wrap">
     <h3>Accelerate Our Trajectory</h3>
     <p>Every phase is open-source and community-supported. Become a sponsor to fuel development, influence priority features, and join architectural working groups.</p>
-    <a href="{{ '/sponsor' | relative_url }}" class="btn btn-primary">✦ Become a Sponsor</a>
+    <a href="{{ '/sponsor/' | relative_url }}" class="btn btn-primary">✦ Become a Sponsor</a>
   </div>
 </div>
 
