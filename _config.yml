@@ -1,10 +1,9 @@
 title: GODWthIN7
 description: The Inner Engine of Emergent Intelligence
-theme: minima
+url: "https://godwthin7.github.io"
+baseurl: ""
+
 markdown: kramdown
-
-minima:
-  skin: dark
-
 sass:
   style: compressed
+
